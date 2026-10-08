@@ -3,7 +3,7 @@
 SQL analysis of the Maven Movies rental database (MySQL), completed as a coursework assignment.
 
 ## Files
-- `mavenmovies_database.sql` - database structure and data (19 tables). 
+- `mavenmovies_database.sql` - database structure and data (19 tables).
 - `maven_movies_analysis.sql` - queries, views and stored procedures that answer 13 business questions.
 
 ## Techniques used
@@ -21,6 +21,3 @@ SQL analysis of the Maven Movies rental database (MySQL), completed as a coursew
 - Actor movie counts with rankings
 - Pairs of actors who appeared in the same film
 
-
-## Tools
-MySQL, MySQL Workbench
